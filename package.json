@@ -1,0 +1,23 @@
+{
+  "name": "eth-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ethereum-waffle": "^3.0.2"
+  },
+  "scripts": {
+    "build": "npx waffle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skiv71/eth-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiv71/eth-test/issues"
+  },
+  "homepage": "https://github.com/skiv71/eth-test#readme"
+}
